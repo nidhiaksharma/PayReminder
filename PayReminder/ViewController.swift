@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         //Test change
         //Running change 2
+        // Conflict Test.
+        
     }
 
     override func didReceiveMemoryWarning() {
